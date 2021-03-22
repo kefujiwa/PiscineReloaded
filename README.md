@@ -1,6 +1,6 @@
 # PiscineReloaded
 
-ThePiscine Reloaded is a best-of of the exercises you did during thePiscine C to remind you all the basics of the C programming language.
+The Piscine Reloaded is a best-of of the exercises you did during thePiscine C to remind you all the basics of the C programming language.
 
 ## List of exercises
 | exercise | content |
